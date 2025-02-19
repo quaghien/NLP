@@ -1,1 +1,3 @@
 Prompt Engineering & Basics of LLM: https://docs.google.com/document/d/1fVU2g6Zl6vZFEoM9IM0UxC5ai4llC5_O2R_b_QE6rc0/edit?usp=sharing
+Retrieval Augmented Generation (RAG): https://docs.google.com/document/d/1pimU9Ma6DK834-turCpYop6eAe_Jpp3BrptOwhroBwE/edit?usp=drive_link
+Document digitization & Chunking : https://docs.google.com/document/d/15Q1y43MrFSj5C4UCBOBV01lvOrmFGe9LLpcsQ6pGVD0/edit?usp=drive_link
