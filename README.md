@@ -57,7 +57,6 @@ This repository contains over 100+ interview questions for Large Language Models
 - **How does RAG work?**
 - **What are some benefits of using the RAG system?**
 - **When should I use Fine-tuning instead of RAG?**
-- **What are the architecture patterns for customizing LLM with proprietary data?**
 
 [Back to Top](#table-of-contents)
 
