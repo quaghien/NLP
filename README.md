@@ -115,6 +115,8 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ## Advanced Search Algorithms
 
+- **BM25 , TF/IDF?**
+- **Cross-Encoder/ Cohere rerank?**
 - **What are architecture patterns for information retrieval & semantic search?**
 - **Why it’s important to have very good search**
 - **How can you achieve efficient and accurate search results in large-scale datasets?**
@@ -137,6 +139,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ## Language Models Internal Working
 
+- **Update in LLM?**
 - **Can you provide a detailed explanation of the concept of self-attention?**
 - **Explain the disadvantages of the self-attention mechanism and how can you overcome it.**
 - **What is positional encoding?**
@@ -178,6 +181,8 @@ This repository contains over 100+ interview questions for Large Language Models
 - **What is RLHF, and how is it used?**
 - **What is the reward hacking issue in RLHF?**
 - **Explain different preference alignment methods.**
+- **What is PPO, and how is it used?**
+- **What is GRPO, and how is it used?**
 
 [Back to Top](#table-of-contents)
 
