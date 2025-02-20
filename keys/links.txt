@@ -1,3 +1,9 @@
-Prompt Engineering & Basics of LLM: https://docs.google.com/document/d/1fVU2g6Zl6vZFEoM9IM0UxC5ai4llC5_O2R_b_QE6rc0/edit?usp=sharing
-Retrieval Augmented Generation (RAG): https://docs.google.com/document/d/1pimU9Ma6DK834-turCpYop6eAe_Jpp3BrptOwhroBwE/edit?usp=drive_link
-Document digitization & Chunking : https://docs.google.com/document/d/15Q1y43MrFSj5C4UCBOBV01lvOrmFGe9LLpcsQ6pGVD0/edit?usp=drive_link
+1.Prompt Engineering & Basics of LLM: https://docs.google.com/document/d/1fVU2g6Zl6vZFEoM9IM0UxC5ai4llC5_O2R_b_QE6rc0/edit?usp=sharing
+2.Retrieval Augmented Generation (RAG): https://docs.google.com/document/d/1pimU9Ma6DK834-turCpYop6eAe_Jpp3BrptOwhroBwE/edit?usp=drive_link
+3.Document digitization & Chunking : https://docs.google.com/document/d/15Q1y43MrFSj5C4UCBOBV01lvOrmFGe9LLpcsQ6pGVD0/edit?usp=drive_link
+4.Embedding Models : https://docs.google.com/document/d/1bGv0kUwuf0dRpCVRLnbbFxuWNrTb0UdDp5_f3yXTDIk/edit?usp=drive_link
+5.Internal Working of Vector Databases : https://docs.google.com/document/d/16c4BIuMx8tyL2wWo2wtJmCgXGTnKtVQ4iCB-qWljRYA/edit?usp=drive_link
+6.Advanced Search Algorithms : https://docs.google.com/document/d/13V_9rLuyXiG5i6y3as0vcMDvaSXfspmtDtGKmkAQUxg/edit?usp=drive_link
+7.Language Models Internal Working : https://docs.google.com/document/d/1lHFHjzubA-YzBVetyA_TIrfWj8Uodjf4dZ2Mu2jNFBs/edit?usp=drive_link
+8.Supervised Fine-Tuning of LLM : https://docs.google.com/document/d/1r-m6rK1O_-9i2V-VpPGT3gULn4E9RlvbChaBvNbLWgY/edit?usp=drive_link
+9.Preference Alignment (RLHF/RLAIF/DPO/PPO/GRPO/...) : https://docs.google.com/document/d/1x7skyy50qQj3K-TU2v1K-2Pmyk_jH6fGgrl4qj0J1WE/edit?usp=drive_link
