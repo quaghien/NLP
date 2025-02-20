@@ -7,3 +7,7 @@ Advanced Search Algorithms : https://docs.google.com/document/d/13V_9rLuyXiG5i6y
 Language Models Internal Working : https://docs.google.com/document/d/1lHFHjzubA-YzBVetyA_TIrfWj8Uodjf4dZ2Mu2jNFBs/edit?usp=drive_link
 Supervised Fine-Tuning of LLM : https://docs.google.com/document/d/1r-m6rK1O_-9i2V-VpPGT3gULn4E9RlvbChaBvNbLWgY/edit?usp=drive_link
 Preference Alignment (RLHF/RLAIF/DPO/PPO/GRPO/...) : https://docs.google.com/document/d/1x7skyy50qQj3K-TU2v1K-2Pmyk_jH6fGgrl4qj0J1WE/edit?usp=drive_link
+Evaluation of LLM System : https://docs.google.com/document/d/1c9_yV_KpEGHv3kE7G0tLDAGCNcO4NTvGw7MuFYsMnms/edit?usp=drive_link
+Hallucination Control Techniques : https://docs.google.com/document/d/1L7VKVoukiA-vEnayO-lN8ZbIGHnGSerybgloPJxoan8/edit?usp=drive_link
+Deployment of LLM : https://docs.google.com/document/d/1zHZSSXgeEyA6ZEoGbotOlgrNNZTZ9o5LYgXdOT7Aj8w/edit?usp=drive_link
+Agent-Based System : https://docs.google.com/document/d/1NUjpCp8YArbilqUwPYa518KsWt66vaLwQd2e4GdxLgo/edit?usp=drive_link
