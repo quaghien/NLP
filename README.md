@@ -17,7 +17,7 @@ This repository contains over 100+ interview questions for Large Language Models
 6. [Advanced Search Algorithms](#advanced-search-algorithms)
 7. [Language Models Internal Working](#language-models-internal-working)
 8. [Supervised Fine-Tuning of LLM](#supervised-fine-tuning-of-llm)
-9. [Preference Alignment (RLHF/DPO)](#preference-alignment-rlhfdpo)
+9. [Preference Alignment (RLHF/RLAIF/DPO/PPO/GRPO/...)](#preference-alignment-rlhfdpo)
 10. [Evaluation of LLM System](#evaluation-of-llm-system)
 11. [Hallucination Control Techniques](#hallucination-control-techniques)
 12. [Deployment of LLM](#deployment-of-llm)
@@ -175,7 +175,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Preference Alignment (RLHF/DPO)
+## Preference Alignment (RLHF/RLAIF/DPO/PPO/GRPO/...)
 
 - **At which stage you will decide to go for the Preference alignment type of method rather than SFT?**
 - **What is RLHF, and how is it used?**
