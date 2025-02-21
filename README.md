@@ -28,7 +28,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Prompt Engineering & Basics of LLM
+## 1. Prompt Engineering & Basics of LLM
 
 - **What is the difference between Predictive/Discriminative AI and Generative AI?**
 - **What is LLM, and how are LLMs trained?**
@@ -51,7 +51,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Retrieval Augmented Generation (RAG)
+## 2. Retrieval Augmented Generation (RAG)
 
 - **how to increase accuracy, and reliability & make answers verifiable in LLM**
 - **How does RAG work?**
@@ -62,7 +62,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Document digitization & Chunking 
+## 3. Document digitization & Chunking 
 
 - **What is chunking, and why do we chunk our data?**
 - **What factors influence chunk size?**
@@ -79,7 +79,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Embedding Models
+## 4. Embedding Models
 
 - **What are vector embeddings, and what is an embedding model?**
 - **How is an embedding model used in the context of LLM applications?**
@@ -92,7 +92,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Internal Working of Vector Databases
+## 5. Internal Working of Vector Databases
 
 - **What is a vector database?**
 - **How does a vector database differ from traditional databases?**
@@ -113,7 +113,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Advanced Search Algorithms
+## 6. Advanced Search Algorithms
 
 - **BM25 , TF/IDF?**
 - **Cross-Encoder/ Cohere rerank?**
@@ -137,7 +137,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Language Models Internal Working
+## 7. Language Models Internal Working
 
 - **Update in LLM?**
 - **Can you provide a detailed explanation of the concept of self-attention?**
@@ -157,7 +157,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Supervised Fine-Tuning of LLM
+## 8. Supervised Fine-Tuning of LLM
 
 - **What is fine-tuning, and why is it needed?**
 - **Which scenario do we need to fine-tune LLM?**
@@ -175,7 +175,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Preference Alignment (RLHF/RLAIF/DPO/PPO/GRPO/...)
+## 9. Preference Alignment (RLHF/RLAIF/DPO/PPO/GRPO/...)
 
 - **At which stage you will decide to go for the Preference alignment type of method rather than SFT?**
 - **What is RLHF, and how is it used?**
@@ -188,7 +188,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Evaluation of LLM System
+## 10. Evaluation of LLM System
 
 - **How do you evaluate the best LLM model for your use case?**
 - **How to evaluate RAG-based systems?**
@@ -199,7 +199,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Hallucination Control Techniques
+## 11. Hallucination Control Techniques
 
 - **What are different forms of hallucinations?**
 - **How to control hallucinations at various levels?**
@@ -208,7 +208,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Deployment of LLM
+## 12. Deployment of LLM
 
 - **Why does quantization not decrease the accuracy of LLM?**
 - **What are the techniques by which you can optimize the inference of LLM for higher throughput?**
@@ -218,7 +218,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Agent-Based System
+## 13. Agent-Based System
 
 - **Explain the basic concepts of an agent and the types of strategies available to implement agents**
 - **Why do we need agents and what are some common strategies to implement agents?**
@@ -231,7 +231,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Prompt Hacking
+## 14. Prompt Hacking
 
 - **What is prompt hacking and why should we bother about it?**
 - **What are the different types of prompt hacking?**
@@ -241,15 +241,15 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Miscellaneous
+## 15. Miscellaneous
 
 - **How to optimize cost of overall LLM System?**
 - **What are mixture of expert models (MoE)?**
 - **How to build production grade RAG system, explain each component in detail ?**
-- **What is FP8 variable and what are its advantages of it**
+- **What is FP8 variable and what are its advantages of it?**
 - **How to train LLM with low precision training without compromising on accuracy ?**
-- **How to calculate size of KV cache**
-- **Explain dimension of each layer in multi headed transformation attention block**
+- **How to calculate size of KV cache?**
+- **Explain dimension of each layer in multi headed transformation attention block?**
 - **How do you make sure that attention layer focuses on the right part of the input?**
 
 
@@ -257,7 +257,7 @@ This repository contains over 100+ interview questions for Large Language Models
 
 ---
 
-## Case Studies
+## 16. Case Studies
 
 - **Case Study 1**: LLM Chat Assistant with dynamic context based on query
 - **Case Study 2**: Prompting Techniques
