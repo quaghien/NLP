@@ -11,3 +11,5 @@ Evaluation of LLM System : https://docs.google.com/document/d/1c9_yV_KpEGHv3kE7G
 Hallucination Control Techniques : https://docs.google.com/document/d/1L7VKVoukiA-vEnayO-lN8ZbIGHnGSerybgloPJxoan8/edit?usp=drive_link
 Deployment of LLM : https://docs.google.com/document/d/1zHZSSXgeEyA6ZEoGbotOlgrNNZTZ9o5LYgXdOT7Aj8w/edit?usp=drive_link
 Agent-Based System : https://docs.google.com/document/d/1NUjpCp8YArbilqUwPYa518KsWt66vaLwQd2e4GdxLgo/edit?usp=drive_link
+Prompt Hacking : https://docs.google.com/document/d/12EqJbgNVF463aHao9TKxkFkPrWRQoIUl3TMnBn7SpwQ/edit?usp=drive_link
+Miscellaneous : https://docs.google.com/document/d/1MKb0ffhD5sQQi01A9WaaOZ0y1XYISNdQpm1skUkerk8/edit?usp=drive_link
